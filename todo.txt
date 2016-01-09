@@ -1,0 +1,5 @@
+http://yiiframework.domain-na.me/resources
+http://yiiframework.domain-na.me/license
+http://yiiframework.domain-na.me/team
+http://yiiframework.domain-na.me/logo
+http://yiiframework.domain-na.me/login
